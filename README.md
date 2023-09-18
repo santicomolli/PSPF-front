@@ -1,8 +1,38 @@
-# React + Vite
+# Plataforma de Seguimiento de Proyectos Finales:zap:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+La Plataforma de Seguimiento de Proyectos Finales (PSPF) se concibe como una solución integral diseñada para mejorar la gestión y supervisión eficiente de proyectos finales en contextos académicos. Este proyecto utilizará el stack MERN (MongoDB, Express.js, React y Node.js)
 
-Currently, two official plugins are available:
+## Pre-requisitos 📋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cosas que se necesitan tener instaladas o configuradas previamente para utilizar tu proyecto
+
+- [NodeJS](https://nodejs.org/en/)
+- Npm (viene incluido en NodeJS)
+
+## Instalación ⚙️
+
+Puedes instalar el proyecto desde npm:
+
+`npm install`
+
+Para ejecutarlo de forma local:
+
+`npm run dev`
+
+O también clonando el repositorio
+
+`$ git clone https://github.com/santicomolli/PSPF-front.git`
+
+## Herramientas utilizadas 🛠️
+
+1. [React](https://reactjs.org/)
+2. [Bootstrap v5](https://getbootstrap.com/)
+3. [Vite](https://vitejs.dev/)
+4. animate.css
+5. emailjs-com
+6. font-awesome
+
+## Autores 👩‍💻👨‍💻
+
+- Owen Vassarotto
+- Santiago Comolli

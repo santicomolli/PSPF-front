@@ -26,7 +26,7 @@ O también clonando el repositorio
 ## Herramientas utilizadas 🛠️
 
 1. [React](https://reactjs.org/)
-2. [Bootstrap v5](https://getbootstrap.com/)
+2. [Tailwind v3](https://tailwindcss.com/)
 3. [Vite](https://vitejs.dev/)
 4. animate.css
 5. emailjs-com

@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Prueba de que funciona esto bro</h1>
+      <h1 className='text-3xl font-bold text-center mt-20'>Prueba de que funciona esto bro</h1>
     </>
   )
 }
